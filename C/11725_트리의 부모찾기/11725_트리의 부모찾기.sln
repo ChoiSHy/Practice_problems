@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11725_트리의 부모찾기", "11725_트리의 부모찾기.vcxproj", "{946D41C3-501E-462F-83C1-1C5A5EC4896D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Debug|x64.ActiveCfg = Debug|x64
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Debug|x64.Build.0 = Debug|x64
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Debug|x86.ActiveCfg = Debug|Win32
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Debug|x86.Build.0 = Debug|Win32
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Release|x64.ActiveCfg = Release|x64
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Release|x64.Build.0 = Release|x64
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Release|x86.ActiveCfg = Release|Win32
+		{946D41C3-501E-462F-83C1-1C5A5EC4896D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974CC359-8183-4E31-8C11-0F896E1FFB95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\HOME\Desktop\2022\백준\15652_N과 M (4)\Debug\15652_N과 M (4).exe
+C:\Users\HOME\Desktop\2022\백준\15652_N과 M (4)\Debug\15652_N과 M (4).pdb
