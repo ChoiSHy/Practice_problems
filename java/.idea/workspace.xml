@@ -1,14 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="" />
+    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backjun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N1012/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N1074/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N11286/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N11375/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N1260/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N1927/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1003/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1003/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1011/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1011/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1011/calcCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1011/calcCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1025/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1025/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1025/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1025/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1025/Row.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1025/Row.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1036/Base36.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1036/Base36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1036/Base36_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1036/Base36_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1036/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1036/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1037/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1037/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N10828/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N10828/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1085/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1085/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N10926/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N10926/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N10989/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N10989/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N11050/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N11050/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N11051/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N11051/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N11650/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N11650/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N11651/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N11651/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1167/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1167/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1167/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1167/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1167/node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1167/node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1181/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1181/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1181/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1181/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1300/KthNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1300/KthNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1316/GroupWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1316/GroupWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1427/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1427/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N15649/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N15649/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1676/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1676/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N17298/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N17298/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N18870/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N18870/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1934/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1934/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1967/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1967/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1967/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1967/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1967/node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1967/node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N1991/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N1991/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2004/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2004/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2108/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2108/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2108/countSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2108/countSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2166/AreaOfPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2166/AreaOfPolygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2166/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2166/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2166/Polygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2166/Polygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2263/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2263/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2480/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2480/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2525/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2525/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2609/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2609/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2750/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2750/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2750/heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2750/heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2751/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2751/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2941/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2941/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N2981/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N2981/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N3009/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N3009/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N3036/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N3036/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N3053/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N3053/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N4949/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N4949/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N5086/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N5086/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/N9375/MaIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/N9375/MaIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/1149.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/1149.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dff875ff-1e57-4e1b-9865-f70e5c75247c" />
+        <option name="url" value="https://github.com/ChoiSHy/Backjun.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N0ihQ8NvkcWF6PT3JDX2cjmW2L" />
   <component name="ProjectViewState">
@@ -19,11 +113,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HOME/Desktop/2022/백준/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tjdgu/OneDrive/바탕 화면/Backjun/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -39,6 +138,11 @@
       <updated>1678807519012</updated>
       <workItem from="1678807520132" duration="97000" />
       <workItem from="1681819772370" duration="3000" />
+      <workItem from="1688025592719" duration="3425000" />
+      <workItem from="1688371967569" duration="5297000" />
+      <workItem from="1688578134662" duration="4951000" />
+      <workItem from="1688719563353" duration="12465000" />
+      <workItem from="1688907295997" duration="6551000" />
     </task>
     <servers />
   </component>

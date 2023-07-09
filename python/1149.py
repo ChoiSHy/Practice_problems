@@ -13,6 +13,10 @@ for i in range(1,n):
         for k in range(3):
             if j[1] != k:
                 pos[i].append((j[0] + cost[i][k],k))
-for st in pos:
-    print(st)
+    tmp = sorted(pos[i])[:3]
+    for k in tmp:
+        if k is not tmp:
+            pos[i].remove(k)
+for i in pos:
+    print(i)
 print(min(pos[n-1])[0])
