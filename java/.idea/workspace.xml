@@ -4,65 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="백준 1074까지 풀었음">
-      <change afterPath="$PROJECT_DIR$/src/N14940/Main.java" afterDir="false" />
+    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="14940">
+      <change afterPath="$PROJECT_DIR$/src/N5430/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1003/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1011/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1011/calcCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1025/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1025/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1025/Row.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1036/Base36.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1036/Base36_value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1036/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1037/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N10828/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1085/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N10926/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N10989/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N11050/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N11051/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N11650/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N11651/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1167/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1167/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1167/node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1181/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1181/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1300/KthNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1316/GroupWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1427/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N15649/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1676/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N17298/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N18870/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1934/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1967/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1967/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1967/node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N1991/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2004/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2108/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2108/countSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2166/AreaOfPolygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2166/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2166/Polygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2263/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2480/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2525/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2609/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2750/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2750/heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2751/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2941/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N2981/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N3009/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N3036/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N3053/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N4949/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N5086/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/N9375/MaIN.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +81,7 @@
       <workItem from="1688719563353" duration="12465000" />
       <workItem from="1688907295997" duration="6551000" />
       <workItem from="1690781348304" duration="2127000" />
+      <workItem from="1691051647775" duration="7261000" />
     </task>
     <task id="LOCAL-00001" summary="11444">
       <created>1690605110456</created>
@@ -152,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690652568764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14940">
+      <created>1691051682376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691051682376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11444" />
     <MESSAGE value="7662" />
-    <option name="LAST_COMMIT_MESSAGE" value="7662" />
+    <MESSAGE value="14940" />
+    <option name="LAST_COMMIT_MESSAGE" value="14940" />
   </component>
 </project>
