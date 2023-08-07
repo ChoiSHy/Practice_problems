@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="7662">
-      <change afterPath="$PROJECT_DIR$/src/N11724/Main.java" afterDir="false" />
+    <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="5430">
+      <change afterPath="$PROJECT_DIR$/src/N2606/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -79,6 +81,8 @@
       <workItem from="1688719563353" duration="12465000" />
       <workItem from="1688907295997" duration="6551000" />
       <workItem from="1690781348304" duration="2127000" />
+      <workItem from="1691051647775" duration="9371000" />
+      <workItem from="1691081295013" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="11444">
       <created>1690605110456</created>
@@ -94,15 +98,42 @@
       <option name="project" value="LOCAL" />
       <updated>1690652568764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14940">
+      <created>1691051682376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691051682376</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5430">
+      <created>1691066809771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691066809771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11444" />
     <MESSAGE value="7662" />
-    <option name="LAST_COMMIT_MESSAGE" value="7662" />
+    <MESSAGE value="14940" />
+    <MESSAGE value="5430" />
+    <option name="LAST_COMMIT_MESSAGE" value="5430" />
   </component>
 </project>
