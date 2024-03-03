@@ -50,10 +50,7 @@ class Bus {
 class Solution {
     public String solution(int n, int t, int m, String[] timetable) {
         Queue<Integer> crews = timeToInt(timetable);
-        System.out.println(crews.toString());
-        System.out.println();
-        String answer = "";
-        return answer;
+        return intToTime(solve(n,t,m,crews));
     }
 
     public int solve(int n, int t, int m, Queue<Integer> crews) {
@@ -62,22 +59,32 @@ class Solution {
         int time = 9 * 60;
         Map<Integer, Bus> bus = new HashMap<>();
 
-        while (!crews.isEmpty()) {
+        while (!crews.isEmpty() && i < n) {
             if (!bus.containsKey(time))
                 bus.put(time, new Bus(m));
 
             int crew = crews.remove();
-
-            if((time < crew && i < n) || !bus.get(time).add(time)){
+            if((time < crew && i < n) || !bus.get(time).add(crew)){
                 time += t;
                 crews.add(crew);
                 i++;
-                continue;
             }
         }
-        List<Integer> keys = new ArrayList<>(bus.keySet());
+        List<Map.Entry<Integer, Bus>> entries = new ArrayList<>(bus.entrySet());
+        entries.sort(Map.Entry.comparingByKey());
+        Map.Entry<Integer, Bus> lastBus = entries.get(entries.size()-1);
 
-
+        if(!lastBus.getValue().add(lastBus.getKey())){
+            Integer[] lastCrews = Arrays.stream(lastBus.getValue().crews)
+                    .boxed()
+                    .toArray(Integer[]::new);
+            Arrays.sort(lastCrews, Collections.reverseOrder());
+            ret = lastCrews[0]-1;
+        }
+        else{
+            ret = lastBus.getKey();
+        }
+        System.out.println("answer: "+intToTime(ret));
         return ret;
     }
 
@@ -88,5 +95,10 @@ class Solution {
             ret.add(Integer.parseInt(input[0]) * 60 + Integer.parseInt(input[1]));
         }
         return ret;
+    }
+    public String intToTime(int time){
+        int h = time / 60;
+        int m = time % 60;
+        return String.format("%02d:%02d", h, m);
     }
 }

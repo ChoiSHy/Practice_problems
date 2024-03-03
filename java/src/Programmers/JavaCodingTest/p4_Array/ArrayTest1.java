@@ -13,7 +13,7 @@ public class ArrayTest1 {
         int k = scanner.nextInt();
         int[] A = new int[n];
         for(int i = 0 ; i<n;i++){
-            A[i]= random.nextInt(-1000000,1000000);
+            //A[i]= random.nextInt(-1000000,1000000);
         }
 
         find1(A,k);

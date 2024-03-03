@@ -5,8 +5,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a1abb13-aa77-4a70-adb1-f3532febe21e" name="변경" comment="5430">
-      <change afterPath="$PROJECT_DIR$/src/N2606/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/Word_conversion/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N10026/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1003/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1011/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1011/calcCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1012/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1012/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1012/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1025/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1025/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1025/Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1036/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1037/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1074/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N10818/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N10828/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1085/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N10926/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N10989/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11050/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11051/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11279/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11286/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11286/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11375/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11399/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11444/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11650/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11651/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1167/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1167/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1167/node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N11724/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1181/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1181/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N12100/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N12100/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1260/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1300/KthNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1316/GroupWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1427/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N14940/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N15649/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1655/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1676/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N17219/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N17298/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N18870/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1927/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1934/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1967/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1967/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1967/node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N1991/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2004/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2108/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2108/countSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2166/AreaOfPolygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2166/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2166/Polygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2263/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2480/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2525/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2606/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2609/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2750/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2750/heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2751/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2941/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N2981/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N3009/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N3036/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N3053/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N4949/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N5086/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N5430/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N5430/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N7662/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/N9375/MaIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_10815/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_10816/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_10845/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_10845/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_11003/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_11066/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/java/problem_2263/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/JavaCodingTest/p4_Array/ArrayTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/JavaCodingTest/p4_Array/ArrayTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/Kakao_2018_blind_recruitment/Shuttle_Bus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Kakao_2018_blind_recruitment/Shuttle_Bus/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +170,7 @@
       <workItem from="1690781348304" duration="2127000" />
       <workItem from="1691051647775" duration="9371000" />
       <workItem from="1691081295013" duration="9000" />
+      <workItem from="1709459736227" duration="4978000" />
     </task>
     <task id="LOCAL-00001" summary="11444">
       <created>1690605110456</created>
