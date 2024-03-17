@@ -4,11 +4,9 @@ def solution(progresses, speeds):
     size = len(progresses)
     rest = [100 - p for p in progresses]    
     answer = []
-    print(rest)
 
     for i in range(size):
         rest[i] = math.ceil(rest[i] / speeds[i])
-    print(rest)
 
     cnt = 0
     max = rest[0]
